@@ -1,0 +1,11 @@
+[
+  { "id": "inv-01", "name": "Inverter Roof North", "type": "inverter", "currentPowerW": 8420, "lastSeen": "2026-11-03T10:42:10Z", "fault": false },
+  { "id": "bat-01", "name": "Battery Storage 1", "type": "battery", "currentPowerW": -2300, "lastSeen": "2026-11-03T09:58:00Z", "fault": false },
+  { "id": "inv-02", "name": "Inverter Roof South", "type": "inverter", "currentPowerW": 7310, "lastSeen": "2026-11-03T10:44:30Z", "fault": false },
+  { "id": "inv-03", "name": "Inverter Carport", "type": "inverter", "currentPowerW": 0, "lastSeen": "2026-11-03T08:10:00Z", "fault": false },
+  { "id": "inv-04", "name": "Inverter Garage", "type": "inverter", "currentPowerW": 0, "lastSeen": "2026-11-03T10:43:00Z", "fault": true },
+  { "id": "inv-05", "name": "Inverter Barn East", "type": "inverter", "currentPowerW": 5120, "lastSeen": "2026-11-03T10:44:50Z", "fault": false },
+  { "id": "bat-02", "name": "Battery Storage 2", "type": "battery", "currentPowerW": 1800, "lastSeen": "2026-11-03T10:41:00Z", "fault": false },
+  { "id": "bat-03", "name": "Battery Storage 3", "type": "battery", "currentPowerW": 0, "lastSeen": "2026-11-03T06:15:00Z", "fault": false },
+  { "id": "bat-04", "name": "Battery Backup", "type": "battery", "currentPowerW": 0, "lastSeen": "2026-11-03T10:40:00Z", "fault": true }
+]
